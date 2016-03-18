@@ -3,7 +3,7 @@
 # Open Source Governance Model @ Bullhorn
 
 ## Mission Statement
-s
+
 Bullhorn is constantly developing and using new technologies to solve the problems of our users. Sometimes we find and use great open source technologies that solve a problem we are having and other times we make some great technologies for problems that haven’t been solved yet.
 
 ## Governance Committee
