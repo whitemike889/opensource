@@ -70,3 +70,13 @@ There are many ways to **[contribute](https://github.com/bullhorn/opensource/blo
 * **[Submit bugs](https://github.com/bullhorn/opensource/issues)** and help us verify fixes as they are checked in.
 * Review **[source code changes](https://github.com/bullhorn/opensource/pulls)**.
 * **[Contribute bug fixes](https://github.com/bullhorn/opensource/blob/master/CONTRIBUTING.md)**.
+
+# License
+
+Copyright (c) forever [Bullhorn](http://www.bullhorn.com).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
